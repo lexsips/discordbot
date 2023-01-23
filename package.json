@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "erela.js": "^2.3.3",
-    "undici": "^4.11.3"
+    "undici": "^5.16.0"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
